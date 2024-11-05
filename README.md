@@ -1,0 +1,2 @@
+Make sure to check the pdf before the word because equeations in the word file is not shown good as I used Latex code to create the pdf and then converted it to word.
+I don't have a microsoft access so I did that.
